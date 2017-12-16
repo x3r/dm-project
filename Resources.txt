@@ -1,0 +1,2 @@
+HDBSCAN Implementation: https://github.com/scikit-learn-contrib/hdbscan/tree/master/hdbscan
+How HDBSCAN works: hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html
